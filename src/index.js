@@ -27,6 +27,7 @@ connectDB();
 
 
 
+
 //First approach using IIFE inside index.js to auto invoke connection when index.js is run from nodemon
 // import mongoose from "mongoose"; 
 // import {DB_NAME} from "./constants";
